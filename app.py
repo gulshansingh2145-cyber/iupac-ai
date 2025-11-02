@@ -20,3 +20,5 @@ if uploaded_file is not None:
             st.error("❌ Could not read structure. Try another file.")
     except Exception as e:
         st.error(f"Error: {e}")
+
+deleted app.py
